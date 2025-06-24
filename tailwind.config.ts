@@ -103,4 +103,4 @@ export default {
     },
   },
   plugins: [require('tailwindcss-animate'), require('@tailwindcss/container-queries')],
-} satisfies Config;
+} satisfies Config
