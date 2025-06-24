@@ -12,6 +12,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@clerk/localizations": "^3.17.0",
     "@clerk/nextjs": "^5.2.2",
     "@clerk/themes": "^2.1.9",
     "@genkit-ai/googleai": "^1.8.0",
