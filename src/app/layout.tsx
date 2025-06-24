@@ -18,6 +18,8 @@ export default function RootLayout({
   return (
     <ClerkProvider
       localization={esES}
+      signInFallbackRedirectUrl="/dashboard"
+      signUpFallbackRedirectUrl="/dashboard"
       appearance={{
         baseTheme: dark,
         variables: {

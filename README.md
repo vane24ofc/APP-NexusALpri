@@ -35,8 +35,6 @@ Este proyecto utiliza Clerk para la autenticación de usuarios. Necesitarás con
 
     NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
     NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-    NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/dashboard
-    NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/dashboard
     ```
 
 ### 4. Ejecutar el Servidor de Desarrollo
